@@ -23,6 +23,10 @@ sudo apt install autoconf automake lcov
 ./setup-cpputest.sh
 ```
 
+If you want to force download of CppUTest, use ```./setup-cpputest.sh -reinstall```.
+
+If you want to uninstall CppUTest, use ```./setup-cpputest.sh -uninstall```.
+
 ## CppUTest using MakefileWorker
 
 After writing configuration in `MakeTests.mk`, run the following commands:
