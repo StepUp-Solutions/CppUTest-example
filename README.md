@@ -80,3 +80,11 @@ int main(int argc, char ** argv)
  - [The source](https://github.com/cpputest/cpputest)
  - [The manual](https://cpputest.github.io/manual.html)
  - [CppUTest with Eclipse on Windows](https://github.com/miguelmoraperea/guide_setup_cpputest_eclipse_win_7)
+
+## License
+
+This repository is licensed under the [MIT License](https://tldrlegal.com/license/mit-license) - see the [LICENSE](LICENSE.md) file for details
+
+## Acknowledgements
+
+A huge thank you to Charles Gayot for letting me opensource this repository ! :heart:
